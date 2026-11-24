@@ -7,7 +7,8 @@ A simple, responsive library book manager built with React and Vite. Browse the 
 - **Student name:** [Add name]
 - **Roll number / UID:** [Add UID]
 - **Problem statement:** P0 — Library Book Manager
-- **Live Vercel deployment:** [Add deployment URL]
+- **Live Vercel deployment:** https://24-november-web-dev-2026.vercel.app
+- **GitHub repository:** https://github.com/shubhamrai9122-creator/24-November-Web-Dev-2026
 
 ## Run locally
 
